@@ -1,0 +1,23 @@
+let a=+prompt("enter number");
+let b=+prompt("enter number");
+var c = prompt("enter your name" );
+console.log(a+b);
+console.log(a-b);
+console.log(a*b);
+console.log(a%b);
+console.log(a/b);
+console.log(b++);
+console.log(b);
+console.log(a--);
+console.log(a);
+console.log(a+=10);
+console.log(a);
+console.log(b-=5);
+console.log(b);
+console.log(a*=5);
+console.log(b/=5);
+console.log(a>b);
+console.log(b<=a);
+console.log(a!=b);
+console.log(a&&b);
+console.log(c)
